@@ -29,4 +29,4 @@ jobs:
           ${{ runner.os }}-build-
           ${{ runner.os }}-
     - run: npm install
-    - run: npm run dev
+    - run: npm run vite
