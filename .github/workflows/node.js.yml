@@ -28,5 +28,5 @@ jobs:
           ${{ runner.os }}-build-${{ env.cache-name }}-
           ${{ runner.os }}-build-
           ${{ runner.os }}-
-    - run: npm ci
-    - run: npm run dev
+    - run: npm install
+    - run: npm run buildcss
