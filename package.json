@@ -20,7 +20,7 @@
     "css-dark-watch": "postcss main-dark.css --output dist/ravenbright-dark.min.css --watch",
     "preview": "npx http-server ./",
     "test": "concurrently 'npm:buildcss' 'npm:buildcss-dark' 'npm:preview'",
-    "dev": "concurrently 'npm:buildcss' 'npm:preview'"
+    "dev": "concurrently 'npm:buildcss' 'npm:buildcss-dark'"
   },
   "bugs": {
     "url": "https://github.com/ravenbrightdesign/ravenbrightcss/issues"
