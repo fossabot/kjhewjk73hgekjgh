@@ -23,6 +23,7 @@
 * **********************************************
 * 🎲 CSS reset & CSS variable
 * **********************************************
+
 */
 @import "src/reset.css";
 @import "src/css-variable.css";
@@ -30,6 +31,7 @@
 /*
 * 📦 Minimal components
 */
+
 @import "src/components/accordion.css";
 @import "src/components/alert.css";
 @import "src/components/avatar.css";
@@ -49,6 +51,7 @@
 * Note that: 'bg' means background
 * Black & white color is included in 'gray';
 */
+
 @import "src/utilities/light-mode/bg-gray.css";
 @import "src/utilities/light-mode/bg-green.css";
 @import "src/utilities/light-mode/bg-lime.css";
@@ -91,9 +94,11 @@
 @import "src/utilities/light-mode/magenta.css";
 @import "src/utilities/light-mode/yellow.css";
 @import "src/utilities/light-mode/orange.css";
+
 /*
 * 🌙 Dark mode utility classes
 */
+
 @import "src/utilities/dark-mode/dark-bg-gray.css";
 @import "src/utilities/dark-mode/dark-bg-green.css";
 @import "src/utilities/dark-mode/dark-bg-lime.css";
@@ -141,6 +146,7 @@
 /*
 * 🧲 General utility classes (without responsive utilities)
 */
+
 @import "src/utilities/bg-size.css";
 @import "src/utilities/border-radius.css";
 @import "src/utilities/border-width.css";
@@ -159,6 +165,7 @@
 /*
 * 📐 Responsive utility classes
 */
+
 @import "src/utilities/responsive-container.css";
 @import "src/utilities/responsive-display.css";
 @import "src/utilities/responsive-flexbox.css";
