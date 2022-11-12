@@ -1,4 +1,8 @@
+<div align="center">
+
 # What is 🐦Ravenbright CSS?
+
+</div>
 
 <div align="center">
 
@@ -14,15 +18,21 @@
 
 Ravenbright CSS is a modern, style & platform agnostic CSS library to build intuitive simple static sites faster. Ravenbright CSS comes with 3 main features: CSS utility classes, CSS variables & minimal components.
 
-<p align="center">
+<div align="center">
 
-![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+<a href="https://codepen.io/ravenbrightdesign"> View demo on Codepen
+<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="View demo on Codepen">
+</a>
 
-</p<>
- <a href="https://ravenbrightcss.com/uicollections">View Demo</a>
+<a href="https://figma.com/@ravenbright"> Figma profile
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma profile">
+</a>
 
+<a href="https://reddit.com/r/ravenbrightcss"> Subreddit
+<img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Subreddit">
+</a>
+
+</div>
 
 <img src="https://jazzy-valkyrie-4b668e.netlify.app/assets/images/overview_5-92daca90f061b21cfaf8a421463ff121.jpg" alt="Ravenbright Banner">
 
@@ -64,10 +74,14 @@ Ravenbright CSS might be for you.
 
 <p align="center">
 
-![Astro](https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=Astro&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<a href="https://zauberhaft.ravenbright.design/astro"> Astro <img src="https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=Astro&logoColor=white" alt="Astro">
+</a>
+<a href="https://zauberhaft.ravenbright.design/nextjs"> Next JS <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
+</a>
+<a href="https://zauberhaft.ravenbright.design/gatsby"> Gatsby <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby JS">
+</a>
+<a href="https://zauberhaft.ravenbright.design/html"> HTML5 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+</a>
 
 </p>
 
@@ -98,9 +112,10 @@ You can also copy & paste the components from [Ravenbright CSS website](https://
 
 Still have doubt? Don't be, explore & play around with Ravenbright CSS live demo on Codepen.
 
-![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+<a href="https://codepen.io/ravenbrightdesign"> View demo on Codepen
+<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="View demo on Codepen">
+</a>
 
-<a href="https://ravenbrightcss.com/uicollections">👉 View Demo</a>
 
 # Build process
 Ravenbright CSS is built from several CSS files with the help of PostCSS. By using PostCSS, you can remove bloated unused CSS, cherry-pick the CSS files and use SASS-like features in CSS (Nested & mixins).
