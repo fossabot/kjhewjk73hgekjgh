@@ -1,6 +1,6 @@
 # What is 🐦Ravenbright CSS?
 
-<*a href="https://snyk.io/test/github/{henknxkreoyrnmngmnhorsszxe}/{kjhewjk73hgekjgh}">
+<a href="https://snyk.io/test/github/{henknxkreoyrnmngmnhorsszxe}/{kjhewjk73hgekjgh}">
 
 Ravenbright CSS is a modern, style & platform agnostic CSS library to build intuitive simple static sites faster. Ravenbright CSS comes with 3 main features: CSS utility classes, CSS variables & minimal components.
 
