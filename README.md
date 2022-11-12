@@ -29,7 +29,8 @@ Ravenbright CSS is a modern, style & platform agnostic CSS library to build intu
     </a>
 <a href="https://codepen.io/ravenbrightdesign">
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="View demo on Codepen">
-</a>
+</a><a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fhenknxkreoyrnmngmnhorsszxe%2Fkjhewjk73hgekjgh?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhenknxkreoyrnmngmnhorsszxe%2Fkjhewjk73hgekjgh.svg?type=shield"/></a>
+
 <a href="https://figma.com/@ravenbright">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma profile">
 </a>
@@ -148,3 +149,6 @@ Check the complete list of [attributions](https://ravenbrightcss.com/docs/usage/
 # License
 
 Ravenbright CSS source codes are released under [Apache License 2.0](https://ravenbrightcss.com/docs/usage/postcss)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhenknxkreoyrnmngmnhorsszxe%2Fkjhewjk73hgekjgh.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhenknxkreoyrnmngmnhorsszxe%2Fkjhewjk73hgekjgh?ref=badge_large)
