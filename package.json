@@ -14,8 +14,10 @@
   "style": "dist/ravenbright.min.css",
   "unpkg": "dist/ravenbright.min.css",
   "scripts": {
-    "buildcss": "postcss main.css --output dist/ravenbright.min.css --watch",
-		"buildcss-dark": "postcss main-dark.css --output dist/ravenbright-dark.min.css --watch",
+    "buildcss": "postcss main.css --output dist/ravenbright.min.css",
+	  "css-watch": "postcss main.css --output dist/ravenbright.min.css --watch",
+		"buildcss-dark": "postcss main-dark.css --output dist/ravenbright-dark.min.css",
+	  "css-dark-watch": "postcss main-dark.css --output dist/ravenbright-dark.min.css --watch",
     "vite": "vite",
     "build": "vite build",
     "preview": "vite preview",
