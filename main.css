@@ -43,3 +43,6 @@
 @import "src/components/radio.css";
 @import "src/components/table.css";
 @import "src/components/tabs.css";
+
+@import "src/utilities/light-mode/bg-green.css";
+@import "src/utilities/bg-size.css";
