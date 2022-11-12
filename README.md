@@ -1,22 +1,32 @@
 # What is 🐦Ravenbright CSS?
 
-<p align="center">
+<div align="center">
+
 [![Known Vulnerabilities](https://snyk.io/test/github/henknxkreoyrnmngmnhorsszxe/kjhewjk73hgekjgh/badge.svg)](https://snyk.io/test/github/henknxkreoyrnmngmnhorsszxe/kjhewjk73hgekjgh)
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/henknxkreoyrnmngmnhorsszxe/kjhewjk73hgekjgh)
+
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/henknxkreoyrnmngmnhorsszxe/kjhewjk73hgekjgh)
+
 [![GitHub license](https://badgen.net/github/license/henknxkreoyrnmngmnhorsszxe/kjhewjk73hgekjgh)](https://github.com/henknxkreoyrnmngmnhorsszxe/kjhewjk73hgekjgh/blob/main/LICENSE.md)
+
 [![twitter.com](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://twitter.com/)
+
 [![Documentation Status](twitter.com)](twitter.com)
-</p>
+</div>
 
 
 
 Ravenbright CSS is a modern, style & platform agnostic CSS library to build intuitive simple static sites faster. Ravenbright CSS comes with 3 main features: CSS utility classes, CSS variables & minimal components.
 
 <p align="center">
+
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+
 </p<>
  <a href="https://ravenbrightcss.com/uicollections">View Demo</a>
 
@@ -35,9 +45,17 @@ Ravenbright CSS is a modern, style & platform agnostic CSS library to build intu
 - ✅ You can build static websites that works without Javascript.
 
 - 🤝 Ravenbright CSS provides a way to have faster & seamless handoff experiences. Ravenbright CSS offers broad range of design tokens format: CSS variables, raw JSON, Figma tokens JSON & tailwind CSS config. By using raw JSON file you can generate the tokens to other formats using Style Dictionary.
+
+<p align="center">
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</p>
+
 
 # Who is it for?
 If you,
@@ -52,10 +70,18 @@ Ravenbright CSS might be for you.
 # What are the other nice features which you offer?
 - 🆓 Free even for commercial usage - Ravenbright CSS codes are free to use & released under Apache license 2.0.
 - ⚡ Free pre-built lightning fast & beautifully-designed Next.js 13, Astro 1.6 & Gatsby modern agency portfolio templates
-Astro 	![Astro](https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=Astro&logoColor=white)
-Next JS 	![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+<p align="center">
+
+![Astro](https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=Astro&logoColor=white)
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
 ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
-HTML5 	![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+</p>
 
 - 🌙 Built in dark mode - Ravenbright CSS provide wide range of colors for the dark mode
 - ♿ Built with accessibility in mind - Ravenbright CSScomponents & design tokens follow WCAG 2.1
@@ -83,8 +109,10 @@ You can also copy & paste the components from [Ravenbright CSS website](https://
 
 
 Still have doubt? Don't be, explore & play around with Ravenbright CSS live demo on Codepen.
+
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
- <a href="https://ravenbrightcss.com/uicollections">👉 View Demo</a>
+
+<a href="https://ravenbrightcss.com/uicollections">👉 View Demo</a>
 
 # Build process
 Ravenbright CSS is built from several CSS files with the help of PostCSS. By using PostCSS, you can remove bloated unused CSS, cherry-pick the CSS files and use SASS-like features in CSS (Nested & mixins).
