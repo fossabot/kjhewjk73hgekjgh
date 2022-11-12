@@ -15,36 +15,32 @@
   "unpkg": "dist/ravenbright.min.css",
   "scripts": {
     "buildcss": "postcss main.css --output dist/ravenbright.min.css",
-	  "css-watch": "postcss main.css --output dist/ravenbright.min.css --watch",
-		"buildcss-dark": "postcss main-dark.css --output dist/ravenbright-dark.min.css",
-	  "css-dark-watch": "postcss main-dark.css --output dist/ravenbright-dark.min.css --watch",
-    "vite": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
-		"test": "concurrently 'npm:buildcss' 'npm:buildcss-dark' 'npm:vite'",
-		"dev": "concurrently 'npm:buildcss' 'npm:buildcss-dark' 'npm:vite'"
-
+    "css-watch": "postcss main.css --output dist/ravenbright.min.css --watch",
+    "buildcss-dark": "postcss main-dark.css --output dist/ravenbright-dark.min.css",
+    "css-dark-watch": "postcss main-dark.css --output dist/ravenbright-dark.min.css --watch",
+    "preview": "npx http-server ./",
+    "test": "concurrently 'npm:buildcss' 'npm:buildcss-dark' 'npm:preview'",
+    "dev": "concurrently 'npm:buildcss' 'npm:buildcss-dark' 'npm:preview'"
   },
   "bugs": {
     "url": "https://github.com/ravenbrightdesign/ravenbrightcss/issues"
   },
   "keywords": [
     "CSS",
-		"atomic CSS",
-		"CSS custom properties",
-		"CSS utility classes",
+    "atomic CSS",
+    "CSS custom properties",
+    "CSS utility classes",
     "CSS components",
     "CSS variables",
-		"CSS library",
-		"design tokens",
+    "CSS library",
+    "design tokens",
     "design system",
-		"Figma tokens",
-		"front-end",
-		"functional CSS",
-		"UI components"
+    "Figma tokens",
+    "front-end",
+    "functional CSS",
+    "UI components"
   ],
   "devDependencies": {
-		"vite": "^3.2.3",
     "concurrently": "^7.5.0",
     "cssnano": "^5.1.14",
     "postcss": "^8.4.19",
