@@ -1,13 +1,18 @@
 # What is 🐦Ravenbright CSS?
 
+<*a href="https://snyk.io/test/github/{henknxkreoyrnmngmnhorsszxe}/{kjhewjk73hgekjgh}">
+
 Ravenbright CSS is a modern, style & platform agnostic CSS library to build intuitive simple static sites faster. Ravenbright CSS comes with 3 main features: CSS utility classes, CSS variables & minimal components.
 
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+
  <a href="https://ravenbrightcss.com/uicollections">View Demo</a>
+
 
 <img src="https://jazzy-valkyrie-4b668e.netlify.app/assets/images/overview_5-92daca90f061b21cfaf8a421463ff121.jpg" alt="Ravenbright Banner">
 
 # What makes Ravenbright CSS differs than others?
-- ✨ Low specificity CSS. Ravenbright CSS consist of low level CSS with low level of specificity.
+- ✨ Low specificity CSS. It makes styling & customization easier. Check the [Ravenbright CSS stats here](https://github.com).
 
 - 🤓 It's beginner friendly. Ravenbright CSS has zero configuration to get started. No preprocessors, no complex front-end build setup, & no subscriptions required. Just plug & play 🎮. Quickly download the source code and UI collections for free!.
 
@@ -59,12 +64,16 @@ You can also copy & paste the components from [Ravenbright CSS website](https://
 
 
 Still have doubt? Don't be, explore & play around with Ravenbright CSS live demo on Codepen.
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
  <a href="https://ravenbrightcss.com/uicollections">👉 View Demo</a>
 
 # Build process
 Ravenbright CSS is built from several CSS files with the help of PostCSS. By using PostCSS, you can remove bloated unused CSS, cherry-pick the CSS files and use SASS-like features in CSS (Nested & mixins).
 
 Check out [Ravenbright CSS tutorials](https://ravenbrightcss.com/docs/usage/postcss) to help you understand more about this.
+
+# Credits & attributions
+Check the complete list of [attributions](https://ravenbrightcss.com/docs/usage/postcss)
 
 # License
 Ravenbright CSS source codes are released under [Apache License 2.0](https://ravenbrightcss.com/docs/usage/postcss)
