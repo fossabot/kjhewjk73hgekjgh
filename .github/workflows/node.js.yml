@@ -35,17 +35,8 @@ jobs:
     - run: npm install
     - run: npm run dev
     
-    - name: Coveralls
+    - name: Coveralls 
       uses: coverallsapp/github-action@1.1.3
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
-        
-  finish:
-   needs: build
-   runs-on: ubuntu-latest
-   steps:
-    - name: Coveralls Finished
-      uses: coverallsapp/github-action@1.1.3
-      with:
-        github-token: ${{ secrets.github_token }}
-        parallel-finished: true
+ 
