@@ -19,7 +19,9 @@
     "vite": "vite",
     "build": "vite build",
     "preview": "vite preview",
+		"test": "concurrently 'npm:buildcss' 'npm:buildcss-dark' 'npm:vite'",
 		"dev": "concurrently 'npm:buildcss' 'npm:buildcss-dark' 'npm:vite'"
+
   },
   "bugs": {
     "url": "https://github.com/ravenbrightdesign/ravenbrightcss/issues"
