@@ -3,16 +3,11 @@
 <div align="center">
 
 [![Known Vulnerabilities](https://snyk.io/test/github/henknxkreoyrnmngmnhorsszxe/kjhewjk73hgekjgh/badge.svg)](https://snyk.io/test/github/henknxkreoyrnmngmnhorsszxe/kjhewjk73hgekjgh)
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/henknxkreoyrnmngmnhorsszxe/kjhewjk73hgekjgh)
-
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/henknxkreoyrnmngmnhorsszxe/kjhewjk73hgekjgh)
-
 [![GitHub license](https://badgen.net/github/license/henknxkreoyrnmngmnhorsszxe/kjhewjk73hgekjgh)](https://github.com/henknxkreoyrnmngmnhorsszxe/kjhewjk73hgekjgh/blob/main/LICENSE.md)
-
 [![twitter.com](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://twitter.com/)
 
-[![Documentation Status](twitter.com)](twitter.com)
 </div>
 
 
@@ -22,9 +17,7 @@ Ravenbright CSS is a modern, style & platform agnostic CSS library to build intu
 <p align="center">
 
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 
 </p<>
@@ -49,9 +42,7 @@ Ravenbright CSS is a modern, style & platform agnostic CSS library to build intu
 <p align="center">
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </p>
@@ -74,11 +65,8 @@ Ravenbright CSS might be for you.
 <p align="center">
 
 ![Astro](https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=Astro&logoColor=white)
-
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
 ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 </p>
