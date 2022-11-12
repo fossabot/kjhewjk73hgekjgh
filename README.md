@@ -15,20 +15,17 @@
 </div>
 
 
-
 Ravenbright CSS is a modern, style & platform agnostic CSS library to build intuitive simple static sites faster. Ravenbright CSS comes with 3 main features: CSS utility classes, CSS variables & minimal components.
 
 <div align="center">
 
-<a href="https://codepen.io/ravenbrightdesign"> View demo on Codepen
+<a href="https://codepen.io/ravenbrightdesign">
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="View demo on Codepen">
 </a>
-
-<a href="https://figma.com/@ravenbright"> Figma profile
+<a href="https://figma.com/@ravenbright">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma profile">
 </a>
-
-<a href="https://reddit.com/r/ravenbrightcss"> Subreddit
+<a href="https://reddit.com/r/ravenbrightcss">
 <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Subreddit">
 </a>
 
@@ -51,9 +48,15 @@ Ravenbright CSS is a modern, style & platform agnostic CSS library to build intu
 
 <p align="center">
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<a href="https://codepen.io/ravenbrightdesign">
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Tokens">
+</a>
+<a href="https://figma.com/@ravenbright">
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JSON tokens">
+</a>
+<a href="https://reddit.com/r/ravenbrightcss">
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS config">
+</a>
 
 </p>
 
@@ -74,13 +77,13 @@ Ravenbright CSS might be for you.
 
 <p align="center">
 
-<a href="https://zauberhaft.ravenbright.design/astro"> Astro <img src="https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=Astro&logoColor=white" alt="Astro">
+<a href="https://zauberhaft.ravenbright.design/astro"> <img src="https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=Astro&logoColor=white" alt="Astro">
 </a>
-<a href="https://zauberhaft.ravenbright.design/nextjs"> Next JS <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
+<a href="https://zauberhaft.ravenbright.design/nextjs"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
 </a>
-<a href="https://zauberhaft.ravenbright.design/gatsby"> Gatsby <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby JS">
+<a href="https://zauberhaft.ravenbright.design/gatsby"><img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby JS">
 </a>
-<a href="https://zauberhaft.ravenbright.design/html"> HTML5 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<a href="https://zauberhaft.ravenbright.design/html"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 </a>
 
 </p>
