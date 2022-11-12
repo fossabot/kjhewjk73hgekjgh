@@ -14,8 +14,11 @@
 
 </div>
 
+<div align="center">
 
 Ravenbright CSS is a modern, style & platform agnostic CSS library to build intuitive simple static sites faster. Ravenbright CSS comes with 3 main features: CSS utility classes, CSS variables & minimal components.
+
+</div>
 
 <div align="center">
 
@@ -46,7 +49,7 @@ Ravenbright CSS is a modern, style & platform agnostic CSS library to build intu
 
 - 🤝 Ravenbright CSS provides a way to have faster & seamless handoff experiences. Ravenbright CSS offers broad range of design tokens format: CSS variables, raw JSON, Figma tokens JSON & tailwind CSS config. By using raw JSON file you can generate the tokens to other formats using Style Dictionary.
 
-<p align="center">
+<div align="center">
 
 <a href="https://codepen.io/ravenbrightdesign">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Tokens">
@@ -58,7 +61,7 @@ Ravenbright CSS is a modern, style & platform agnostic CSS library to build intu
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS config">
 </a>
 
-</p>
+</div>
 
 
 # Who is it for?
@@ -75,7 +78,7 @@ Ravenbright CSS might be for you.
 - 🆓 Free even for commercial usage - Ravenbright CSS codes are free to use & released under Apache license 2.0.
 - ⚡ Free pre-built lightning fast & beautifully-designed Next.js 13, Astro 1.6 & Gatsby modern agency portfolio templates
 
-<p align="center">
+<div align="center">
 
 <a href="https://zauberhaft.ravenbright.design/astro"> <img src="https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=Astro&logoColor=white" alt="Astro">
 </a>
@@ -86,7 +89,7 @@ Ravenbright CSS might be for you.
 <a href="https://zauberhaft.ravenbright.design/html"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 </a>
 
-</p>
+</div>
 
 - 🌙 Built in dark mode - Ravenbright CSS provide wide range of colors for the dark mode
 - ♿ Built with accessibility in mind - Ravenbright CSScomponents & design tokens follow WCAG 2.1
@@ -115,7 +118,9 @@ You can also copy & paste the components from [Ravenbright CSS website](https://
 
 Still have doubt? Don't be, explore & play around with Ravenbright CSS live demo on Codepen.
 
-<a href="https://codepen.io/ravenbrightdesign"> View demo on Codepen
+**View demo on Codepen 👇**
+
+<a href="https://codepen.io/ravenbrightdesign">
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="View demo on Codepen">
 </a>
 
